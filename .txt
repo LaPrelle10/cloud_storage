@@ -1,0 +1,6 @@
+cloud storage connects with api key or email direct to the users device
+giving a user personal control of their own personal items 
+no access is granted unless premission is given by the downloaded user of cloud storage
+access is given to user by download 
+cloud storage binded by a user and its users email
+use for this storage is images files viedos and other user content 
