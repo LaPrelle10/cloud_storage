@@ -1,5 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/LaPrelle10/cloud_storage)
 
+![CI](https://github.com/LaPrelle10/cloud_storage/workflows/CI/badge.svg?branch=LaPrelle10%2Fgitpod-setup)
+
 # cloud_storage
 Cloud storage built for users who need to store images, photos, videos and ect.  
 
